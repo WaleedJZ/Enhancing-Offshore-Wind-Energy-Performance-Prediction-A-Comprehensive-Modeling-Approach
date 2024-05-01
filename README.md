@@ -18,3 +18,8 @@ This repository contains the implementation of a Long Short-Term Memory (LSTM) m
 To install the required libraries, run the following command:
 ```bash
 pip install -r requirements.txt
+Data
+The dataset used in this model includes historical wind speed data adjusted for turbine hub heights, sourced from the Met Office MIDAS Open database. For confidentiality and licensing reasons, the data is not included in this repository.
+
+Contributing
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your suggested changes.
